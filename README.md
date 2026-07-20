@@ -74,6 +74,15 @@ StoreIQ connects all locations into a single inventory intelligence layer. It mo
 
 ## 📸 Screenshots
 
+![Dashboard Overview](screenshots/storeiq-overview.png)
+*Dashboard overview — real-time revenue, orders, and alerts for Superare.*
+
+![Inventory Management](screenshots/storeiq-inventory.png)
+*Inventory view — multi-location stock levels, reorder points, and transfer recommendations.*
+
+![Agent Activity Log](screenshots/storeiq-agent.png)
+*AI agent activity log — every automated action tracked and timestamped.*
+
 *Screenshots coming soon — dashboard currently running in production.*
 
 ---
